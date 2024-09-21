@@ -23,4 +23,5 @@ This project generates personalized ID cards using user inputs and images. The a
 
 1. Clone the repository:
    ```bash
+   https://github.com/mmustafasaghir81/ID-CARD--PROJECT-GOOGLE-COLAB.git
   
